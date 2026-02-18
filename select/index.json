@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Throne",
+  "base_artist": "Bring Me The Horizon",
+  "createdAt": "2026-02-18T20:03:16.093114Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Pop Style (feat. The Throne)",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/01_Pop_Style_(feat._The_Throne)_Drake.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "girl on my throne",
+      "artist": "Oklou feat. Casey MQ",
+      "has_synced": true,
+      "path": "select/02_girl_on_my_throne_Oklou_feat._Casey_MQ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "girl on my throne (feat. Casey MQ)",
+      "artist": "Oklou",
+      "has_synced": true,
+      "path": "select/03_girl_on_my_throne_(feat._Casey_MQ)_Oklou.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "girl on my throne - too late for summer mix",
+      "artist": "Oklou feat. Casey MQ",
+      "has_synced": true,
+      "path": "select/04_girl_on_my_throne_-_too_late_for_summer_mix_Oklou_feat._Casey_MQ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "girl on my throne (feat. Casey MQ) (too late for summer mix)",
+      "artist": "Oklou",
+      "has_synced": false,
+      "path": "select/05_girl_on_my_throne_(feat._Casey_MQ)_(too_late_for_summer_mix)_Oklou.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Approach The Throne",
+      "artist": "Clues",
+      "has_synced": true,
+      "path": "select/06_Approach_The_Throne_Clues.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Carry Your Throne",
+      "artist": "Jon Bellion",
+      "has_synced": true,
+      "path": "select/07_Carry_Your_Throne_Jon_Bellion.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Throne Of Blood (The Jump Off)",
+      "artist": "The Dead Science",
+      "has_synced": false,
+      "path": "select/08_Throne_Of_Blood_(The_Jump_Off)_The_Dead_Science.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Reconquering The Throne",
+      "artist": "Kreator",
+      "has_synced": true,
+      "path": "select/09_Reconquering_The_Throne_Kreator.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Starfire Burning Upon the Ice-Veiled Throne of Ultima Thule",
+      "artist": "Bal-Sagoth",
+      "has_synced": false,
+      "path": "select/10_Starfire_Burning_Upon_the_Ice-Veiled_Throne_of_Ultima_Thule_Bal-Sagoth.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Baphomet's Throne",
+      "artist": "Samael",
+      "has_synced": true,
+      "path": "select/11_Baphomet's_Throne_Samael.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Take The Throne",
+      "artist": "Hypocrisy",
+      "has_synced": false,
+      "path": "select/12_Take_The_Throne_Hypocrisy.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Throne of Ice",
+      "artist": "Before the Dawn",
+      "has_synced": true,
+      "path": "select/13_Throne_of_Ice_Before_the_Dawn.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Upon an Oaken Throne",
+      "artist": "In Flames",
+      "has_synced": true,
+      "path": "select/14_Upon_an_Oaken_Throne_In_Flames.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Heathen Throne",
+      "artist": "Ensiferum",
+      "has_synced": true,
+      "path": "select/15_Heathen_Throne_Ensiferum.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Longest Journey (Heathen Throne, Pt. II)",
+      "artist": "Ensiferum",
+      "has_synced": true,
+      "path": "select/16_The_Longest_Journey_(Heathen_Throne,_Pt._II)_Ensiferum.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Claw Marks on the Throne",
+      "artist": "Draconian",
+      "has_synced": false,
+      "path": "select/17_Claw_Marks_on_the_Throne_Draconian.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Throne",
+      "artist": "Bring Me The Horizon",
+      "has_synced": false,
+      "path": "select/pl_01_Throne_Bring_Me_The_Horizon.txt"
+    }
+  ]
+}
